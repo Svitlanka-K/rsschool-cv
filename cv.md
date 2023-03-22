@@ -1,0 +1,46 @@
+# Kondratiuk Svitlana 
+![the photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBd7TRg30wXGHS-HGdppp1m3uTHACAVxb3PA&usqp=CAU)
+## Contacts
+- GitHub: Svitlanka-K
+- E-mail: <Svitlanka.K@i.ua>
+- https://www.linkedin.com/in/svitlana-kondratiuk-b11a76224/
+## About me
+I am currently working as a design engineer, but I want to change my profession, so I came to study JavaScript / Front-end at RS School courses.
+## Education
+1. Dnipro National University of Railway Transport (2007)
+2. Rolling ScopesSchool - JS/FE Pre-School 2022Q2
+3. Rolling ScopesSchool - JS/FE Pre-School 2022Q4
+## Skills
+- HTML (basic)
+- CSS (basic)
+- Git (basic)
+- SolidWorks
+- AutoСAD
+- Adobe Photoshop
+- Microsoft Office
+## Code example
+    <!DOCTYPE html>
+    <html lang="ru">
+
+    <head>
+      <meta charset="UTF-8">
+      <title>Форум</title>
+    </head>
+
+    <body>
+      <ol>
+        <li>Общие темы
+          <ul>
+            <li>Начинающим</li>
+            <li>Новости</li>
+          </ul>
+        </li>
+        <li>Инструменты</li>
+      </ol>
+    </body>
+    </html>
+
+## Languages
+- Russian – native
+- Ukrainian – native
+- English – B1
