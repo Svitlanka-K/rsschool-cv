@@ -3,6 +3,7 @@
 ## Contacts
 - GitHub: Svitlanka-K
 - E-mail: <Svitlanka.K@i.ua>
+- https://www.linkedin.com/in/svitlana-kondratiuk-b11a76224/
 ## About me
 I am currently working as a design engineer, but I want to change my profession, so I came to study JavaScript / Front-end at RS School courses.
 ## Education
