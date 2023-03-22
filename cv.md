@@ -6,7 +6,9 @@
 ## About me
 I am currently working as a design engineer, but I want to change my profession, so I came to study JavaScript / Front-end at RS School courses.
 ## Education
-Dnipro National University of Railway Transport (DIIT)
+1. Dnipro National University of Railway Transport (2007)
+2. Rolling ScopesSchool - JS/FE Pre-School 2022Q2
+3. Rolling ScopesSchool - JS/FE Pre-School 2022Q4
 ## Skills
 - HTML (basic)
 - CSS (basic)
